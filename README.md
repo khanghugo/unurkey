@@ -1,2 +1,8 @@
 # unurkey
-Make your keyboard with different layout become QWERTY on any PC
+Make your programmable keyboard with different layout become QWERTY on any PC
+
+# How to
+Run `unurkey.py` with console
+Type `the quick brown fox jumps over the lazy dog` and `,./;'[]\` like how you would do on your keyboard but on QWERTY (it will be unintelligible)
+Compile `unurkey.ahk` with AutoHotKey
+Upload or store binary file somewhere with you when you need to use your cool keyboard on any machine
