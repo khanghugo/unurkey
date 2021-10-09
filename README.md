@@ -3,6 +3,8 @@ Make your programmable keyboard with different layout become QWERTY on any PC
 
 This Python script will write an AutoHotKey file and you can used its compiled file virtually on any PC.
 
+"F#ck it." *unkeyboard your keyboard*
+
 # How to
 1. Run `unurkey.py` with console
 
